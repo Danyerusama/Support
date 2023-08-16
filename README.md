@@ -1,4 +1,4 @@
-## Support my work
+## Support my Work
 
 If you've found value in the projects, plugins, or insights I provide, I'd greatly appreciate your support. Every contribution, no matter how small, helps me continue dedicating time and effort to create meaningful content and projects for the community. If you'd like support  me and be a part of this journey, you can:
 
