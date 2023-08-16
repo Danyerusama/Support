@@ -1,7 +1,19 @@
 ## Support my Work
 
-If you've found value in the projects, plugins, or insights I provide, I'd greatly appreciate your support. Every contribution, no matter how small, helps me continue dedicating time and effort to create meaningful content and projects for the community. If you'd like support  me and be a part of this journey, you can:
+If you've found value in the projects, plugins, or insights I offer, your support would mean the world to me. Even the smallest contribution goes a long way in enabling me to dedicate time and effort to crafting meaningful content and projects for our community. If you're interested in supporting me and becoming a part of this journey, you can do so through Patreon or PayPal:
 
-<a href="https://www.buymeacoffee.com/danyerusama"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=danyerusama&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+### Support on Patreon 
+<a href="https://www.patreon.com/Danyerusama">
+    <img src="https://i.ibb.co/hBp4C5F/My-Patreon.png" alt="My Patreon">
+</a>
+
+
+### Support via PayPal
+<a href="https://paypal.me/Danyerusama?country.x=CO&locale.x=es_XC">
+    <img src="https://i.ibb.co/PFHTmSH/Paypal2.png" alt="My Paypal">
+</a>
+
+
+
 
 Thank you for considering supporting my work and being a part of this community!
